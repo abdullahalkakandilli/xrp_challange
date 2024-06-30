@@ -1,0 +1,12 @@
+[client]
+showErrorDetails = false
+
+[theme]
+primaryColor = "#36454f"
+backgroundColor = "white"
+
+[browser]
+gatherUsageStats = true
+
+[server]
+port=80
